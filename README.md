@@ -1,2 +1,2 @@
 # SummaRuNNer
-Pytorch Implementationof the Paper SummaRuNNer
+Pytorch Implementation of SummaRuNNer
